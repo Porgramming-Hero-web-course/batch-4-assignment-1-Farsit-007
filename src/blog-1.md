@@ -17,7 +17,7 @@
 
   ### Intersection Types:
 
-    Intersection types, on the other hand, allow you to combine multiple types into a single type.
+Intersection types, on the other hand, allow you to combine multiple types into a single type.
     
   ```js 
      interface Person {
